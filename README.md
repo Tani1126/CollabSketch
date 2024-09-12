@@ -1,3 +1,3 @@
-# Digiboard
+# collabsketch
 
 ## Real time Whiteboard
